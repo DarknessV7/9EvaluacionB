@@ -1,0 +1,56 @@
+body{
+	background: url("../img/2.jpg") no-repeat fixed;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	background-size: cover;
+	background-position:  center;
+}
+.navbar{
+	height:80px;
+	background-color: #A64942;
+}
+            
+
+.titulo{
+     color:#FFFFFF;
+     font-family: "Rammetto One", cursive;
+     font-size:25px;
+     align-content: center;
+
+}
+.alto{
+	height:100%;
+}
+.pad{
+	padding:5%;
+}
+.imgwar{
+	width:250px;
+	margin: auto;
+}
+
+.centrado{
+	display:flex;
+	align-content:center;
+	align-items:center;
+	justify-content:center;
+}
+.Pokeinfo{
+	border:3px solid black;
+	height: 250px;
+	width: 250px;
+}
+            
+
+.namepoke{
+	padding:2%;
+    border:2px solid black;
+ 	text-align:center;
+	font-weight:bolder;
+	font-size:25px;
+	color: #000!important;
+	background-color:#801336;
+	
+}
